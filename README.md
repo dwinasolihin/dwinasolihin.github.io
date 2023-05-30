@@ -1,2 +1,2 @@
-# dwinas.github.io
+# dwinasolihin.github.io
 My personal website
